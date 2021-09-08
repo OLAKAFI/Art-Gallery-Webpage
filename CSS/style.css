@@ -322,11 +322,12 @@ p.signaturename{
     display: flex;
     justify-content: flex-start;
     margin-top: 5px;
-    font-size: 2rem;
+    font-size: 4rem;
     font-family: 'Fuggles', cursive;
     padding: 0px;
     color: rgb(240, 186, 219);
     margin-left: 0px;
+    margin-top: 30px;
     width: fit-content;
     
 }
